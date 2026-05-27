@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../project_ep32"
+		},
+		{
+			"name": "monitor_token",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
